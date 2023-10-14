@@ -5,7 +5,7 @@ const About = () => {
     <section>
       <h2>About Me</h2>
       <p>
-        Hi iam saisanthosh! I'm, a dedicated and enthusiastic web developer.I love bringing creativity,
+        Hi iam praneeth! I'm, a dedicated and enthusiastic web developer.I love bringing creativity,
         attention to detail, and a passion for crafting seamless user experiences.
       
       </p>
